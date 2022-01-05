@@ -1,4 +1,9 @@
-### Hi there 👋
+<details>
+  <summary>Github Stats</summary>
+  
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ice100k&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=ffaaff&text_color=77ddff)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ice100k&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=ffaaff&text_color=77ddff)
+</details>
 
 <!--
 **ice100k/ice100k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
