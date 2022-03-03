@@ -1,10 +1,10 @@
-<img src = "https://ice100k.github.io/website/gallery/catbg.png">
+<img src = "https://cynthion21x.github.io/website/gallery/catbg.png">
 
 <details>
   <summary>Top Quality Statistics</summary>
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ice100k&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=ffaaff&text_color=77ddff)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ice100k&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=ffaaff&text_color=77ddff)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=cynthion21x&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=ffaaff&text_color=77ddff)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynthion21x&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=ffaaff&text_color=77ddff)
 </details>
 
 <!--
