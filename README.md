@@ -1,4 +1,4 @@
-<img src = "https://cynthion21x.github.io/website/gallery/catbg.png">
+<img src = "https://cynthion21x.github.io/website/gallery/icybench.png">
 
 <details>
   <summary>Top Quality Statistics</summary>
