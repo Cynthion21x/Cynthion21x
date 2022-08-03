@@ -18,4 +18,4 @@
 <br>
 <br>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cynthion21x&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="cynthion21x" />  &nbsp;   <img align="right" src="https://github-readme-stats.vercel.app/api?username=cynthion21x&show_icons=true&theme=cobalt&locale=en" alt="cynthion21x" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cynthion21x&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="cynthion21x" />&nbsp; &nbsp; &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cynthion21x&show_icons=true&theme=cobalt&locale=en" alt="cynthion21x" /></p>
