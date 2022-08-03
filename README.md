@@ -5,11 +5,11 @@
 
 <br>
 
-- I’m currently working on [Solaroid](https://github.com/thekayperson/Solaroid) ☀️
+- I’m currently working on [**Solaroid**](https://github.com/thekayperson/Solaroid) ☀️
 
 <br>
 
-- I’m currently learning **SDL2** 📝
+- I’m currently learning [**SDL2**](https://www.libsdl.org/download-2.0.php) 📝
 
 <br>
 
