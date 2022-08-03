@@ -1,13 +1,13 @@
-<h1 align="center">Cynthion21x over here!</h1>
+<h1 align="center">🌷 Cynthion21x over here! 🌷</h1>
 <h3 align="center">A very goofy and silly developer</h3>
 
 <br>
 
-- I’m currently working on [Solaroid](https://github.com/thekayperson/Solaroid)
+- I’m currently working on [Solaroid](https://github.com/thekayperson/Solaroid) ☀️
 
 <br>
 
-- I’m currently learning **SDL2**
+- I’m currently learning **SDL2** 📝
 
 <br>
 
