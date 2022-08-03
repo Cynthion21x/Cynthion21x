@@ -1,5 +1,5 @@
 <h1 align="center">🌷 Cynthion21x over here! 🌷</h1>
-<h3 align="center">A very goofy and silly developer</h3>
+<h3 align="center">🤪 A very goofy and silly developer 🤪</h3>
 
 <br>
 
