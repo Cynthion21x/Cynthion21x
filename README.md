@@ -1,4 +1,4 @@
-<h1 align="center">Whats up Cynthion21x here!</h1>
+<h1 align="center">Cynthion21x over here!</h1>
 <h3 align="center">A very goofy and silly developer</h3>
 
 <br>
