@@ -1,7 +1,7 @@
 <h1 align="center">Whats up Cynthion21x here!</h1>
 <h3 align="center">A very goofy and silly developer</h3>
 
-- I’m currently working on [Solaroid](thekayperson/Solaroid)
+- I’m currently working on [Solaroid](https://github.com/thekayperson/Solaroid)
 
 - I’m currently learning **SDL2**
 - 
