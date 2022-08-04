@@ -9,7 +9,7 @@
 
 <br>
 
-- I’m currently learning [**SDL2**](https://www.libsdl.org/download-2.0.php) 📝
+- I’m currently learning [**SDL2**](https://www.libsdl.org/download-2.0.php), [**C**](https://www.cprogramming.com/) and [**C++**](https://www.w3schools.com/cpp/) 📝
 
 <br>
 
