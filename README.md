@@ -1,7 +1,7 @@
 <h1 align="center">🌷 ✩｡:*•. cynthion21x .•*:｡✩ 🌷</h1>
 <h3 align="center">🤪 very goofy and silly developer 🤪</h3>
 
-<img align ="right" src="https://cynthion21x.github.io/website/gallery/icybench.png" height=270 width=480>
+<img align ="right" src="https://cynthion21x.github.io/website/gallery/cynthBanner.png" height=270 width=480>
 
 <br>
 
