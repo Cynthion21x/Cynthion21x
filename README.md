@@ -3,19 +3,20 @@
 
 ---
 
-<img align ="right" src="https://cynthion21x.github.io/website/gallery/beeTDirl.png" height=270 width=480>
+<img align ="right" src="https://github.com/Cynthion21x/Cynthion21x/assets/61597736/a94cd1f1-d37c-4883-b348-8dae90138640" height=270 width=480>
 
 <br>
 
-Im Currently working on:
+<h3> Pretty Lit Stuff 🔥: </h3>
 
 <br>
 
 - [**BeeTD**](https://github.com/cynthion21x/BeeTD) 🐝
 
-- [**Calcuslugs**](https://github.com/cynthion21x/Calcuslugs) 🖩
+- [**Calcuslugs**](https://github.com/cynthion21x/Calcuslugs) 🤓
 
-<br>
+- [**My Website**](https://cynthion21x.github.io/website/index.html) 📝
+
 <br>
 <br>
 <br>
