@@ -7,9 +7,11 @@
 
 <br>
 
-<h3> Pretty Lit Stuff 🔥: </h3>
+Im Learning Haskell! <img src="https://github.com/user-attachments/assets/6d02a65f-2063-46f2-8afe-711fd59ffac8" height = 16 width = 22>
 
 <br>
+
+<h3> Some of my nifty projects 🔥: </h3>
 
 - [**BeeTD**](https://github.com/cynthion21x/BeeTD) 🐝
 
@@ -17,7 +19,6 @@
 
 - [**My Website**](https://cynthion21x.github.io/website/index.html) 📝
 
-<br>
 <br>
 <br>
 
