@@ -3,7 +3,8 @@
 
 ---
 
-<img align="right" src="https://github.com/Cynthion21x/Cynthion21x/assets/61597736/a94cd1f1-d37c-4883-b348-8dae90138640" height=270 width=480>
+<img align="right" src="https://github.com/user-attachments/assets/aab55478-a0f8-4037-9ad2-3c676c3e45f5" height=270>
+
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
@@ -19,7 +20,9 @@
 - I know C# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height=16>
 - I like drawing 🖌️
 
-## 🔥 Some of my nifty projects:
+<br>
+
+## 🔥 Some of my nifty projects
 
 - [**BeeTD**](https://github.com/cynthion21x/BeeTD) 🐝
 - [**Calcuslugs**](https://github.com/cynthion21x/Calcuslugs) 🤓
