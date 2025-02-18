@@ -32,9 +32,8 @@
 
 ## 📊 GitHub Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cynthion21x&show_icons=true&theme=cobalt&locale=en" alt="cynthion21x" />
-
-&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cynthion21x&show_icons=true&theme=cobalt&locale=en" alt="cynthion21x" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cynthion21x&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cynthion21x&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cynthion21x&theme=tokyonight) 
 
 ---
 
