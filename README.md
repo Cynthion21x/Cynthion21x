@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cynthion21x&theme=tokyonight) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cynthion21x&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cynthion21x&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cynthion21x&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cynthion21x&theme=tokyonight) 
 
 ---
 
