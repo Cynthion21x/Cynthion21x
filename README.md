@@ -19,6 +19,7 @@
 - I know Python <img src="https://github.com/user-attachments/assets/0599580c-91a8-4976-864c-84454f45c89a" height=16>
 - I know C# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height=16>
 - I like drawing 🖌️
+- I got slightly addicted to project euler
 
 <br>
 
