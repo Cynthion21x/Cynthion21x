@@ -20,7 +20,7 @@
 - I know C# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height=16>
 - I like drawing 🖌️
 - I got slightly addicted to project euler
-- I like fish and birds and bugs
+- I like fish and birds and bugs and things that look weird
 
 <br>
 
