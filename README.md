@@ -17,9 +17,8 @@
 - I use **Haskell** <img src="https://github.com/user-attachments/assets/6d02a65f-2063-46f2-8afe-711fd59ffac8" height=16>
 - I also use **Rust** <img src="https://rustacean.net/assets/cuddlyferris.svg" height=16>
 - I know Python <img src="https://github.com/user-attachments/assets/0599580c-91a8-4976-864c-84454f45c89a" height=16>
-- I know C# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height=16>
 - I like drawing 🖌️
-- I got slightly addicted to project euler
+- I got slightly addicted to project euler that one time
 - I like fish and birds and bugs and things that look weird
 
 <br>
