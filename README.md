@@ -1,5 +1,5 @@
-<h1 align="center">🌷 ✩｡:*•. cynthion21x .•*:｡✩ 🌷</h1>
-<h3 align="center">🐛 i like creepy crawlies 🐛</h3>
+<h1 align="center">cynthion21x</h1>
+<h3 align="center">I like to make art and program</h3>
 
 ---
 
@@ -20,6 +20,7 @@
 - I like drawing 🖌️
 - I got slightly addicted to project euler that one time
 - I like fish and birds and bugs and things that look weird
+- I like stuff in black and white if you couldn't tell
 
 <br>
 
