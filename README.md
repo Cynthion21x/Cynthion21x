@@ -1,5 +1,5 @@
 <h1 align="center">cynthion21x</h1>
-<h3 align="center">I like to make art and program</h3>
+<h3 align="center">I like to make art and solve problems</h3>
 
 ---
 
