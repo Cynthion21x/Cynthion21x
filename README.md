@@ -26,9 +26,9 @@
 
 ## 🔥 Some of my nifty projects
 
-- [**BeeTD**](https://github.com/cynthion21x/BeeTD) 🐝
+- [**BeeTD**](https://cynthion21x.co.uk/beetd.html) 🐝
 - [**Calcuslugs**](https://github.com/cynthion21x/Calcuslugs) 🤓
-- [**My Website**](https://cynthion21x.github.io/website/index.html) 📝
+- [**My Website**](https://cynthion21x.co.uk) 📝
 
 ---
 
