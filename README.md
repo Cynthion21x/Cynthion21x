@@ -14,12 +14,9 @@
   </ul>
 </div>
 
-- I'm learning **Haskell** <img src="https://github.com/user-attachments/assets/6d02a65f-2063-46f2-8afe-711fd59ffac8" height=16>
-- I'm learning **Rust** <img src="https://rustacean.net/assets/cuddlyferris.svg" height=16>
-- I know Python <img src="https://github.com/user-attachments/assets/0599580c-91a8-4976-864c-84454f45c89a" height=16>
-- I like drawing 🖌️
-- I got slightly addicted to project euler that one time
-- I like fish and birds and bugs and things that look weird
+- I like actually programming lol
+- Learning new things is fun
+- Fish and birds and bugs and things that look weird are cool
 - I like stuff in black and white if you couldn't tell
 
 <br>
@@ -29,6 +26,7 @@
 - [**BeeTD**](https://cynthion21x.co.uk/beetd.html) 🐝
 - [**Calcuslugs**](https://github.com/cynthion21x/Calcuslugs) 🤓
 - [**My Website**](https://cynthion21x.co.uk) 📝
+- (none of these are actually that cool, i'll think of something one day)
 
 ---
 
